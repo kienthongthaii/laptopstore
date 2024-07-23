@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/filter_type"
+            android:title="Loại"
+            android:icon="@drawable/ic_filter"
+            android:menuCategory="secondary"
+            android:checkable="true">
+            <menu>
+                <item
+                    android:id="@+id/filter_laptop"
+                    android:title="Laptop"
+                    android:checkable="true"/>
+                <item
+                    android:id="@+id/filter_phone"
+                    android:title="Điện thoại"
+                    android:checkable="true"/>
+            </menu>
+        </item>
+        <item
+            android:id="@+id/filter_brand"
+            android:title="Hãng"
+            android:icon="@drawable/ic_filter"
+            android:menuCategory="secondary"
+            android:checkable="true">
+            <menu>
+                <item
+                    android:id="@+id/filter_apple"
+                    android:title="Apple"
+                    android:checkable="true"/>
+                <item
+                    android:id="@+id/filter_samsung"
+                    android:title="Samsung"
+                    android:checkable="true"/>
+            </menu>
+        </item>
+    </group>
+</menu>

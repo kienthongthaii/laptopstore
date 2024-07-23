@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">laptopstore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="active_products">Active Products</string>
+    <string name="suppressed_products">Suppressed Products</string>
+    <string name="alerts_sent"># of Alerts Sent</string>
+    <string name="hours_won_back">Hours Won Back</string>
+    <string name="all_alerts">All Alerts</string>
+    <string name="open_alerts">Open Alerts</string>
+    <string name="sellers_summary">Seller\'s Summary</string>
+    <string name="work_lists">Work Lists</string>
+    <string name="welcome_back">Welcome back,</string>
+    <string name="admin">admin</string>
+    <string name="add_new_product">Add New Product</string>
+    <string name="asins_tracked">ASINS Tracked</string>
+    <string name="filter">Lọc</string>
+    <string name="add_product">Thêm sản phẩm</string>
+    <!-- Gợi ý cho trường tìm kiếm -->
+    <string name="search_hint">Tìm kiếm sản phẩm</string>
+</resources>
